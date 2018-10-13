@@ -1,0 +1,24 @@
+{
+    // VIM:
+    "vim.hlsearch": false,
+
+    "elixirLS.fetchDeps": false,
+
+    "workbench.editor.enablePreview": false,
+
+    // Editor
+    "editor.minimap.enabled": false,
+    "editor.overviewRulerBorder": true,
+    "editor.folding": false,
+    "editor.fontSize": 16,
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "all",
+
+    // Search:
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/.elixir_ls": true
+    },
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+}
